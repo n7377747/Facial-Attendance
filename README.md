@@ -1,6 +1,6 @@
 # Facial-Attendance
 Using Open CV face recognition module: Local Binary Pattern Histogram
-Make sure you have created folders specified in .gitignore
+<br/>Make sure you have created folders specified in .gitignore
 Install all the dependencies
 run:
 python capture_faces.py
